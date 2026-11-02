@@ -1,4 +1,3 @@
-# korean_read
 # Korean Study App
 
 韓文初級互動複習網站
